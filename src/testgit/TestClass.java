@@ -1,6 +1,5 @@
 package testgit;
 
 public class TestClass {
-// 测试git
-// 新增一行
+// 分支代码
 }
